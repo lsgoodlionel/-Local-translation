@@ -1,0 +1,4 @@
+argostranslate>=1.9,<2
+ctranslate2>=4,<5
+sentencepiece>=0.2,<1
+

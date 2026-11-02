@@ -1,0 +1,4 @@
+interface:
+  display_name: "Local Text Translation"
+  short_description: "Offline, resumable English-Chinese translation"
+  default_prompt: "Use $local-text-translation to translate this text locally with caching and validation."

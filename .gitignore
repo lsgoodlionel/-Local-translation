@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.translation-cache.json
+translated/
+examples/sample.zh*.md
+examples/sample-cache*.json
